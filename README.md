@@ -1,1 +1,1 @@
-# rust_data_science_coursera
+# data_science
